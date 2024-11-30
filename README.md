@@ -57,13 +57,14 @@ python3 replace.py
 
 ### File Structure
 
+```
 .
 ├── main.py                  # Main deployment and blog processing script
 ├── replace.py               # Script for processing Markdown files and images
 ├── logs/                    # Folder for storing log files
     ├── deployment.log       # General deployment logs
     └── errors.log           # Error logs
-
+```
 
 ### License
 This project is licensed under the MIT License.
